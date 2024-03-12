@@ -1,0 +1,13 @@
+//user
+// Email PK string varchar
+// Password string varchar
+//First Name string varchar
+// Last name string varchar
+//address string varchar
+// payment info inf varchar
+// phone number string varchar
+// loggin in (boolena)
+//admin (boolean)
+
+// select * (all) FROM Users
+// SELECT * FROM users WHERE admin == true
